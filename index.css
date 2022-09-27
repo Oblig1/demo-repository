@@ -43,8 +43,8 @@
     }
     
     #oui {
-        font-size: 100px;
-        color: rgb(91, 86, 19);
+        font-size: 350%;
+        color: rgb(26, 54, 51);
         font-family: Brush Script MT;
         margin-left: 10%;
     }
@@ -83,7 +83,7 @@
     
     #head {
         padding: 10%;
-        height: 250px;
+        height: 100px;
         background-image: url("Paris_Website-Header-Banner_2100x675.jpg");
         background-position: bottom;
         background-size: cover;
